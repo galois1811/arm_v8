@@ -4,3 +4,4 @@
 [ARM® Architecture Reference Manual ARMv8](https://developer.arm.com/products/architecture/cpu-architecture/r-profile/docs/ddi0487/latest/arm-architecture-reference-manual-armv8-for-armv8-a-architecture-profile)  
 [ARMv8-A Reference Manual](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.subset.architecture.reference/index.html)  
 [ARM Cortex-A Series Programmer’s Guide for ARMv8-A](https://developer.arm.com/docs/den0024/latest/preface)  
+[ARM inline asm](http://www.ethernut.de/en/documents/arm-inline-asm.html)  
