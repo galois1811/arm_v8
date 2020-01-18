@@ -5,4 +5,5 @@
 [ARMv8-A Reference Manual](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.subset.architecture.reference/index.html)  
 [ARM Cortex-A Series Programmer’s Guide for ARMv8-A](https://developer.arm.com/docs/den0024/latest/preface)  
 [ARM inline asm](http://www.ethernut.de/en/documents/arm-inline-asm.html)    
-[ARM架构参考手册中文版](https://legacy.gitbook.com/book/codingbelief/arm-architecture-reference-manual-for-armv8-a/details)
+[ARM架构参考手册中文版](https://legacy.gitbook.com/book/codingbelief/arm-architecture-reference-manual-for-armv8-a/details)  
+[Armv8-A Address Translation](https://developer.arm.com/docs/100940/0101)  
