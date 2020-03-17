@@ -8,3 +8,6 @@
 [ARM架构参考手册中文版](https://legacy.gitbook.com/book/codingbelief/arm-architecture-reference-manual-for-armv8-a/details)  
 [Armv8-A Address Translation](https://developer.arm.com/docs/100940/0101)  
 [ARM software on github](https://github.com/ARM-software)
+[AMBA Overview](https://developer.arm.com/architectures/system-architectures/amba)  
+[GICv3 and GICv4 Software Overview](http://infocenter.arm.com/help/topic/com.arm.doc.dai0492b/GICv3_Software_Overview_Official_Release_B.pdf)  
+[ARM GIC v3 and v4 overview](https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Learn%20the%20Architecture/GICv3_v4_overview.pdf?revision=65f91645-cd52-4795-952b-f01095ff5ef8)  
