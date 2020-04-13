@@ -11,3 +11,4 @@
 [AMBA Overview](https://developer.arm.com/architectures/system-architectures/amba)  
 [GICv3 and GICv4 Software Overview](http://infocenter.arm.com/help/topic/com.arm.doc.dai0492b/GICv3_Software_Overview_Official_Release_B.pdf)  
 [ARM GIC v3 and v4 overview](https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Learn%20the%20Architecture/GICv3_v4_overview.pdf?revision=65f91645-cd52-4795-952b-f01095ff5ef8)  
+[ARMv8-a虚拟化](https://developer.arm.com/architectures/learn-the-architecture/armv8-a-virtualization)  
