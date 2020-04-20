@@ -13,3 +13,4 @@
 [ARM GIC v3 and v4 overview](https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Learn%20the%20Architecture/GICv3_v4_overview.pdf?revision=65f91645-cd52-4795-952b-f01095ff5ef8)  
 [ARMv8-a虚拟化](https://developer.arm.com/architectures/learn-the-architecture/armv8-a-virtualization)  
 [Vector Processing with Arm SVE](http://users.ece.utexas.edu/~gerstl/ee382m_f18/lectures/SVE_Seminar_UT_Rico.pdf)  
+[page coloring on arm VIPT](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/page-colouring-on-armv6-and-a-bit-on-armv7)  
