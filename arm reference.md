@@ -33,5 +33,5 @@
 [Rooting Android 8 with a Kernel Space Mirroring Attack](https://conference.hitb.org/hitbsecconf2018ams/materials/D1T2%20-%20Yong%20Wang%20&%20Yang%20Song%20-%20Rooting%20Android%208%20with%20a%20Kernel%20Space%20Mirroring%20Attack.pdf)  
 [KSMA -- Android 通用Root 技术](https://bbs.pediy.com/thread-248444.htm)  
 
-## weak memory consistency
+## memory consistency
 [Weak Memory Consistency](https://people.mpi-sws.org/~viktor/wmc/)  
