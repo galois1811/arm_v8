@@ -9,6 +9,7 @@
 [ARM® Architecture Reference Manual ARMv8](https://developer.arm.com/documentation/ddi0487/fc)  
 [ARMv8-A Reference Manual](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.subset.architecture.reference/index.html)  
 [ARM Cortex-A Series Programmer’s Guide for ARMv8-A](https://developer.arm.com/docs/den0024/latest/preface)  
+[Exception model](https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Learn%20the%20Architecture/Exception%20model.pdf?revision=a62f2bf2-b08a-4a4f-8cbe-38c67ddf4434)  
 [ARMv8 overview](https://armkeil.blob.core.windows.net/developer/Files/pdf/graphics-and-multimedia/ARMv8_Overview.pdf)  
 [ARM架构参考手册中文版](https://legacy.gitbook.com/book/codingbelief/arm-architecture-reference-manual-for-armv8-a/details)  
 ## memory
